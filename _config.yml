@@ -1,10 +1,10 @@
 # Site settings
-title:
+title:  "Home"
 email:
 author:
 description: ""
 baseurl:     ""
-url:         ""
+url:         "https://llllllllx.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
