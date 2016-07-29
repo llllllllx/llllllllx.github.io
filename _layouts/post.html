@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div class="post-header mb2"><h1>{{ page.title }}</h1>{% if site.show_sharing_icons %}
+{{ page.title }}</h1>{% if site.show_sharing_icons %}
   {% include share_buttons.html %}
-{% endif %}
+{% endif %}<div class="post-header mb2"><h1>
 
 
   <span class="post-meta small">
@@ -14,6 +14,7 @@ layout: default
 <article class="post-content">
   {{ content }}
 </article>
+
 
 {% if site.disqus_shortname %}
   <div id="disqus_thread"></div>
