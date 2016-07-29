@@ -5,8 +5,4 @@ date:       2015-07-11
 summary:   
 categories: jekyll pixyll
 ---
-
-<center>
 In an effort to make Pixyll easier to customize and more aesthetically pleasing, we've release version `2.0`.
-
-</center>
