@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Announcing Version 2.0
+title:      jekyll + ghpages
 date:       2015-07-11
-summary:   
-categories: jekyll pixyll
+summary:    read
+categories: jekyll pixyll ghpages
 ---
 There is a significant amount of subtle, yet precisely calibrated, styling to ensure
 that your content is emphasized while still looking aesthetically pleasing.
