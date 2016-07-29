@@ -2,7 +2,7 @@
 layout:     post
 title:      jekyll + ghpages
 date:       2015-07-11
-summary:    read
+summary:    read...
 categories: jekyll pixyll ghpages
 ---
 There is a significant amount of subtle, yet precisely calibrated, styling to ensure
