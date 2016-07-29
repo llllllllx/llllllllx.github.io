@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
+<center>{% if site.show_sharing_icons %}
+  {% include share_buttons.html %}
+{% endif %}</center>
 
-<div class="post-header mb2"><h1>
-
+<div class="post-header mb2"><h1>{{ page.title }}</h1>
 
   <span class="post-meta small">
   </span>
@@ -13,9 +15,6 @@ layout: default
   {{ content }}
 </article>
 
-<center>{{ page.title }}</h1>{% if site.show_sharing_icons %}
-  {% include share_buttons.html %}
-{% endif %}</center>
 
 
 {% if site.disqus_shortname %}
