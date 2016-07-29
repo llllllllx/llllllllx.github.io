@@ -128,7 +128,3 @@ Checkout the [Github repository](https://github.com/johnotander/pixyll) to reque
 or add, features.
 
 Happy writing.
-
----
-
-[^10]: Important information that may distract from the main text can go in footnotes.
