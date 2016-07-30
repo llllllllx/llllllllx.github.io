@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      my ios springboard
+title:      ios springboard
 date:       2015-08-01
 summary:    ""
 categories: iphone ios9 marvelapp
