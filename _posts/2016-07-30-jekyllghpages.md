@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      jekyll + ghpages
+title:      jekyll + gh pages
 date:       2016-07-30
 summary:    ""
-categories: jekyll pixyll ghpages
+categories: jekyll ghpages atom host
 ---
