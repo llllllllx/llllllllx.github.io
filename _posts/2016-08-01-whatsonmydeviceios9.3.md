@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      what's on my device | ios 9.3
-date:       2015-07-11
+date:       2015-08-01
 summary:    ""
 categories: ios ios9
 ---
