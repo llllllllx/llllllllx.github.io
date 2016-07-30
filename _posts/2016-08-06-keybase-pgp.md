@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      keybase pgp
+title:      Keybase.io
 date:       2016-08-06
 summary:    ""
-categories: keybase encryption pgp
+categories: Keybase.io
 ---
