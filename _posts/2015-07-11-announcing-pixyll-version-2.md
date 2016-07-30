@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      jekyll + ghpages
+title:      pixyll v2
 date:       2015-07-11
 summary:    ""
 categories: jekyll pixyll ghpages
