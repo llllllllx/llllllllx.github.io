@@ -3,7 +3,7 @@ layout:     post
 title:      pixyll v2
 date:       2015-07-11
 summary:    ""
-categories: jekyll pixyll ghpages
+categories: jekyll pixyll markdown
 ---
 There is a significant amount of subtle, yet precisely calibrated, styling to ensure
 that your content is emphasized while still looking aesthetically pleasing.
