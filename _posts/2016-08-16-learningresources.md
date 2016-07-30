@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      learning resources
-date:       2015-08-16
+date:       2016-08-16
 summary:    ""
 categories: jekyll pixyll markdown
 ---
