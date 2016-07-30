@@ -5,4 +5,4 @@ date:       2015-08-01
 summary:    ""
 categories: iphone ios9 marvelapp
 ---
-<center><iframe src="https://marvelapp.com/c41974?emb=1" width="165" height="320" frameborder="0" allowtransparency="true"></iframe></center>
+<iframe src="https://marvelapp.com/c41974?emb=1" width="165" height="320" frameborder="0" allowtransparency="true"></iframe>
